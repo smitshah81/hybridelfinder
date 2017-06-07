@@ -1,12 +1,16 @@
 {
-    "name": "barryvdh/laravel-elfinder",
+    "name": "smitshah81/hybridelfinder",
     "keywords": ["laravel", "elfinder", "tinymce", "filebrowser"],
-    "description": "A Laravel Package to integrate elFinder 2",
+    "description": "A Laravel Package to integrate elFinder 2 with modifications for mysql",
     "license": "MIT",
     "authors": [
         {
             "name": "Barry vd. Heuvel",
             "email": "barryvdh@gmail.com"
+        },
+         {
+            "name": "Smit Shah",
+            "email": "smitshah81@gmail.com"
         }
     ],
     "require": {
